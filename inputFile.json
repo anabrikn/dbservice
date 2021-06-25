@@ -1,0 +1,34 @@
+{
+  "criterias": [
+    {"lastName": "Иванов"},
+    {"lastName": "Пушкин"},
+    {"lastName": "Булгаков"},
+    {"lastName": "Достоевский"},
+
+    {"productName": "Минеральная вода", "minTimes": 0},
+    {"productName": "Молоко", "minTimes": 0},
+    {"productName": "Хлеб", "minTimes": 0},
+    {"productName": "Лимонад", "minTimes": 0},
+    {"productName": "Сок", "minTimes": 0},
+    {"productName": "Макароны", "minTimes": 0},
+    {"productName": "Торт", "minTimes": 0},
+    {"productName": "Шоколад", "minTimes": 0},
+    {"productName": "Колбаса", "minTimes": 0},
+    {"productName": "Сыр", "minTimes": 0},
+    {"productName": "Яблоко", "minTimes": 0},
+    {"productName": "Лимон", "minTimes": 0},
+    {"productName": "Помидор", "minTimes": 0},
+    {"productName": "Лук", "minTimes": 0},
+    {"productName": "Йогурт", "minTimes": 0},
+    {"productName": "Кукуруза", "minTimes": 0},
+    {"productName": "Мороженое", "minTimes": 0},
+    {"productName": "Ветчина", "minTimes": 0},
+    {"productName": "Рыба", "minTimes": 0},
+    {"productName": "Какао", "minTimes": 0},
+
+    {"minExpenses": 112, "maxExpenses": 4000},
+
+    {"badCustomers": 5},
+    {"badCustomers": 3}
+  ]
+}

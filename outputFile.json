@@ -1,0 +1,298 @@
+{
+  "type" : "search",
+  "results" : [ {
+    "criteria" : {
+      "lastName" : "Иванов"
+    },
+    "results" : [ ]
+  }, {
+    "criteria" : {
+      "lastName" : "Пушкин"
+    },
+    "results" : [ {
+      "lastName" : "Пушкин",
+      "firstName" : "Александр"
+    } ]
+  }, {
+    "criteria" : {
+      "lastName" : "Булгаков"
+    },
+    "results" : [ {
+      "lastName" : "Булгаков",
+      "firstName" : "Михаил"
+    } ]
+  }, {
+    "criteria" : {
+      "lastName" : "Достоевский"
+    },
+    "results" : [ ]
+  }, {
+    "criteria" : {
+      "productName" : "Минеральная вода",
+      "minTimes" : 0
+    },
+    "results" : [ {
+      "lastName" : "Мартин",
+      "firstName" : "Джордж"
+    } ]
+  }, {
+    "criteria" : {
+      "productName" : "Молоко",
+      "minTimes" : 0
+    },
+    "results" : [ {
+      "lastName" : "Портер",
+      "firstName" : "Уильям"
+    }, {
+      "lastName" : "Лондон",
+      "firstName" : "Джек"
+    } ]
+  }, {
+    "criteria" : {
+      "productName" : "Хлеб",
+      "minTimes" : 0
+    },
+    "results" : [ {
+      "lastName" : "Даррелл",
+      "firstName" : "Джерральд"
+    } ]
+  }, {
+    "criteria" : {
+      "productName" : "Лимонад",
+      "minTimes" : 0
+    },
+    "results" : [ {
+      "lastName" : "Портер",
+      "firstName" : "Уильям"
+    }, {
+      "lastName" : "Кэрролл",
+      "firstName" : "Льюис"
+    }, {
+      "lastName" : "Конан Дойл",
+      "firstName" : "Артур"
+    } ]
+  }, {
+    "criteria" : {
+      "productName" : "Сок",
+      "minTimes" : 0
+    },
+    "results" : [ {
+      "lastName" : "Даррелл",
+      "firstName" : "Джерральд"
+    }, {
+      "lastName" : "Мартин",
+      "firstName" : "Джордж"
+    } ]
+  }, {
+    "criteria" : {
+      "productName" : "Макароны",
+      "minTimes" : 0
+    },
+    "results" : [ {
+      "lastName" : "Портер",
+      "firstName" : "Уильям"
+    }, {
+      "lastName" : "Конан Дойл",
+      "firstName" : "Артур"
+    } ]
+  }, {
+    "criteria" : {
+      "productName" : "Торт",
+      "minTimes" : 0
+    },
+    "results" : [ {
+      "lastName" : "Портер",
+      "firstName" : "Уильям"
+    }, {
+      "lastName" : "Стивенсон",
+      "firstName" : "Роберт"
+    } ]
+  }, {
+    "criteria" : {
+      "productName" : "Шоколад",
+      "minTimes" : 0
+    },
+    "results" : [ {
+      "lastName" : "Булгаков",
+      "firstName" : "Михаил"
+    } ]
+  }, {
+    "criteria" : {
+      "productName" : "Колбаса",
+      "minTimes" : 0
+    },
+    "results" : [ {
+      "lastName" : "Портер",
+      "firstName" : "Уильям"
+    } ]
+  }, {
+    "criteria" : {
+      "productName" : "Сыр",
+      "minTimes" : 0
+    },
+    "results" : [ {
+      "lastName" : "Кервуд",
+      "firstName" : "Оливер"
+    } ]
+  }, {
+    "criteria" : {
+      "productName" : "Яблоко",
+      "minTimes" : 0
+    },
+    "results" : [ {
+      "lastName" : "Кервуд",
+      "firstName" : "Оливер"
+    } ]
+  }, {
+    "criteria" : {
+      "productName" : "Лимон",
+      "minTimes" : 0
+    },
+    "results" : [ {
+      "lastName" : "Кервуд",
+      "firstName" : "Оливер"
+    } ]
+  }, {
+    "criteria" : {
+      "productName" : "Помидор",
+      "minTimes" : 0
+    },
+    "results" : [ {
+      "lastName" : "Кэрролл",
+      "firstName" : "Льюис"
+    }, {
+      "lastName" : "Стивенсон",
+      "firstName" : "Роберт"
+    } ]
+  }, {
+    "criteria" : {
+      "productName" : "Лук",
+      "minTimes" : 0
+    },
+    "results" : [ {
+      "lastName" : "Лондон",
+      "firstName" : "Джек"
+    } ]
+  }, {
+    "criteria" : {
+      "productName" : "Йогурт",
+      "minTimes" : 0
+    },
+    "results" : [ {
+      "lastName" : "Стивенсон",
+      "firstName" : "Роберт"
+    } ]
+  }, {
+    "criteria" : {
+      "productName" : "Кукуруза",
+      "minTimes" : 0
+    },
+    "results" : [ {
+      "lastName" : "Пушкин",
+      "firstName" : "Александр"
+    } ]
+  }, {
+    "criteria" : {
+      "productName" : "Мороженое",
+      "minTimes" : 0
+    },
+    "results" : [ {
+      "lastName" : "Мартин",
+      "firstName" : "Джордж"
+    } ]
+  }, {
+    "criteria" : {
+      "productName" : "Ветчина",
+      "minTimes" : 0
+    },
+    "results" : [ {
+      "lastName" : "Конан Дойл",
+      "firstName" : "Артур"
+    } ]
+  }, {
+    "criteria" : {
+      "productName" : "Рыба",
+      "minTimes" : 0
+    },
+    "results" : [ {
+      "lastName" : "Даррелл",
+      "firstName" : "Джерральд"
+    } ]
+  }, {
+    "criteria" : {
+      "productName" : "Какао",
+      "minTimes" : 0
+    },
+    "results" : [ {
+      "lastName" : "Даррелл",
+      "firstName" : "Джерральд"
+    }, {
+      "lastName" : "Пушкин",
+      "firstName" : "Александр"
+    } ]
+  }, {
+    "criteria" : {
+      "minExpenses" : 112,
+      "maxExpenses" : 4000
+    },
+    "results" : [ {
+      "lastName" : "Мартин",
+      "firstName" : "Джордж"
+    }, {
+      "lastName" : "Пушкин",
+      "firstName" : "Александр"
+    }, {
+      "lastName" : "Конан Дойл",
+      "firstName" : "Артур"
+    }, {
+      "lastName" : "Даррелл",
+      "firstName" : "Джерральд"
+    }, {
+      "lastName" : "Стивенсон",
+      "firstName" : "Роберт"
+    }, {
+      "lastName" : "Булгаков",
+      "firstName" : "Михаил"
+    }, {
+      "lastName" : "Портер",
+      "firstName" : "Уильям"
+    }, {
+      "lastName" : "Кервуд",
+      "firstName" : "Оливер"
+    } ]
+  }, {
+    "criteria" : {
+      "badCustomers" : 5
+    },
+    "results" : [ {
+      "lastName" : "Лондон",
+      "firstName" : "Джек"
+    }, {
+      "lastName" : "Кэрролл",
+      "firstName" : "Льюис"
+    }, {
+      "lastName" : "Пушкин",
+      "firstName" : "Александр"
+    }, {
+      "lastName" : "Булгаков",
+      "firstName" : "Михаил"
+    }, {
+      "lastName" : "Кервуд",
+      "firstName" : "Оливер"
+    } ]
+  }, {
+    "criteria" : {
+      "badCustomers" : 3
+    },
+    "results" : [ {
+      "lastName" : "Пушкин",
+      "firstName" : "Александр"
+    }, {
+      "lastName" : "Лондон",
+      "firstName" : "Джек"
+    }, {
+      "lastName" : "Кэрролл",
+      "firstName" : "Льюис"
+    } ]
+  } ]
+}
